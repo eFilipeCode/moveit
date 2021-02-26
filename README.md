@@ -1,3 +1,3 @@
 # Moveit
 
-Another project built with React & Typescript, by Rocketseat in NLW #4.
+Another project built with React, Typescript & Nextjs by Rocketseat in NLW #4.
